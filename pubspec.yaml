@@ -1,0 +1,9 @@
+name: native_extension_with_stream
+description: Dart native extension with Stream (example).
+dependencies:
+  build_tools:
+    git: https://github.com/mezoni/build_tools.git
+  ccompilers: any
+  lists: any
+  patsubst:
+    git: https://github.com/mezoni/patsubst
